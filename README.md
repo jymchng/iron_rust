@@ -1,10 +1,20 @@
 <center><h1>Iron Rust</h1></center>
 
+<div align="center">
+
 ![](images/iron_rust_banner.png)
+
+</div>
 
 A place to store the different code repositories related to the Iron Rust blog.
 
-Read the blog [here](https://ironrust.substack.com/).
+<div align="center">
+<h2>
+
+\>>> Read the blog [here](https://ironrust.substack.com/) <<<
+
+</h2>
+</div>
 
 # Posts
 
