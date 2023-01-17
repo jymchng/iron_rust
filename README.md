@@ -22,7 +22,7 @@ A place to store the different code repositories related to the Iron Rust blog.
 
 |Post ID|Codes|Title|Link|
 |:--:|:--:|:--|:--|
-|01|[Codes](./post/why_use_rc_refcell_for_linkedlist)|Why do we need to use `Rc<T>` from `std::rc::Rc` for implementing a double-ended static-typed Linked List?|[Link](https://ironrust.substack.com/p/why-do-we-need-to-use-rct-from-stdrcrc)
+|01|[Codes](./posts/why_use_rc_refcell_for_linkedlist)|Why do we need to use `Rc<T>` from `std::rc::Rc` for implementing a double-ended static-typed Linked List?|[Link](https://ironrust.substack.com/p/why-do-we-need-to-use-rct-from-stdrcrc)
 
 </div>
 
