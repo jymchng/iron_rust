@@ -8,7 +8,11 @@ Read the blog [here](https://ironrust.substack.com/).
 
 # Posts
 
+<div align="center">
+
 |Post ID|Codes|Title|
 |:--|:--|:--|
 |01|[Codes](./post/why_use_rc_refcell_for_linkedlist)|Why use `Rc<T>` and `RefCell<T>` for Linked-List in Rust?|
+
+</div>
 
