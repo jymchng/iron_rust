@@ -1,4 +1,4 @@
-<center><h1>Iron Rust</h1></center>
+<div align="center"><h1>Iron Rust</h1></div>
 
 <div align="center">
 
