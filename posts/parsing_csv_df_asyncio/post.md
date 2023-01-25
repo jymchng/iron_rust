@@ -4,7 +4,7 @@
 
 Discover the power of speed and concurrency in Python! As a data professional, you understand the importance of efficient data ingestion, validation, and transformation. Imagine being able to process hundreds or even thousands of files at lightning speed, all thanks to the power of asynchronous programming.
 
-In this article, we'll dive into the world of concurrency and explore how to harness its potential in Python,. Python, while a great language for data processing, doesn't come with built-in concurrency support. But with the help of the asyncio library, you'll learn how to write code that can double or even triple the speed of your data processes.
+In this article, we'll dive into the world of concurrency and explore how to harness its potential in Python. Python, while a great language for data processing, doesn't come with built-in concurrency support. But with the help of the asyncio library, you'll learn how to write code that can double or even triple the speed of your data processes.
 
 Rust, on the other hand, provides a built-in multi-producer-single-consumer channel, making it easy to implement concurrency in your code. Below is a code snippet that illustrates just how simple it is to use Rust's concurrency features.
 
