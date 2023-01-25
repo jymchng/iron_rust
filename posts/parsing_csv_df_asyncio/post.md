@@ -242,8 +242,4 @@ For synchronous run, it took about 57 seconds. This is about a 70% reduction in 
 
 # Reach Out
 
-Do reach out to me on [LinkedIn]() for any discussion! The codes of this post is also available on my [GitHub]().
-
-
-
-
+Do reach out to me on [LinkedIn](https://www.linkedin.com/in/soon-siang-chng/) for any discussion! The codes of this post is also available on my [GitHub](https://github.com/jymchng/iron_rust/tree/master/posts/parsing_csv_df_asyncio).
